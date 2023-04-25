@@ -1,11 +1,3 @@
-var a = 10;
-var b = 20;
-var c = a + b;
-
-var d = a-b;
-var e = a*b;
-var f = a/b;
-
-
-var g = 30;
-var h = 12;
+var x = 11;
+var y = 12;
+var z = 13;
