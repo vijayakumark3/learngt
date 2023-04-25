@@ -7,3 +7,4 @@ var e = a*b;
 var f = a/b;
 
 var g = a+20;
+var h = 22;
