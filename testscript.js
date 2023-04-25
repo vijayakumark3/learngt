@@ -5,3 +5,5 @@ var c = a + b;
 var d = a-b;
 var e = a*b;
 var f = a/b;
+
+var g = a%b;
